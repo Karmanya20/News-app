@@ -1,0 +1,24 @@
+.container .head{
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+.navbar{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+}
+.card{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card span{
+    left: 85%;
+    z-index: 1;
+}
+.container .jumbo{
+    background-image: url("https://auto-id.com.my/data/upload/image/20230201/1675218576331990.jpg");
+    background-position: center;
+    color: whitesmoke;
+    text-align: right;
+    margin-top: 70px;
+}
